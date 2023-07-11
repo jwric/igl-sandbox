@@ -1,0 +1,3 @@
+[submodule "libpg/extern/igl"]
+	path = libpg/extern/igl
+	url = https://github.com/facebook/igl.git
