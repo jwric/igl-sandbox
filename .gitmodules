@@ -1,3 +1,6 @@
 [submodule "libpg/extern/igl"]
 	path = libpg/extern/igl
 	url = https://github.com/facebook/igl.git
+[submodule "libpg/extern/glfw"]
+	path = libpg/extern/glfw
+	url = https://github.com/glfw/glfw.git
