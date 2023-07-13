@@ -1,0 +1,4 @@
+namespace PG
+{
+    void runTriangle();
+}
